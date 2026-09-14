@@ -36,8 +36,7 @@ The ViT pipeline produced the best overall severity-classification result, with 
 
 ```text
 .
-├── Project.ipynb              # Main experimentation notebook
-├── Project_suggestion.ipynb   # Extended experiments and modeling
+├── Project.ipynb              # Main experimentation notebook with Extended experiments and modeling
 ├── DRDataset.py               # Custom PyTorch dataset
 ├── DR_HR_Dataset.py           # Dataset supporting binary/severity labels
 └── .gitignore                 # Excludes datasets and local artifacts
