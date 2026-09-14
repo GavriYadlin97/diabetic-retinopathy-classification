@@ -1,3 +1,4 @@
+# Datasets and local archives
 /Data/
 /DrugBankDB.rar
 /diabetic-retinopathy-detection.zip
@@ -5,3 +6,26 @@
 /B. Disease Grading/
 /A. Segmentation.zip
 /B. Disease Grading.zip
+
+# IDE / editor files
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints / local experiment artifacts
+*.pt
+*.pth
+*.ckpt
+
+# OS files
+.DS_Store
+Thumbs.db
